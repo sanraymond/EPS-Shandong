@@ -1,0 +1,21 @@
+Electricity
+coal
+Natgas
+Nuclear
+Biomass
+Petgas
+Petdies
+Biogas
+Biodies
+JetKerosene
+Lignite
+Crude Oil
+Heavy Fuel Oil
+LPGpropbut
+MSW
+Hydrogen
+Heat
+Geothermal
+Hydro
+Solar
+Wind

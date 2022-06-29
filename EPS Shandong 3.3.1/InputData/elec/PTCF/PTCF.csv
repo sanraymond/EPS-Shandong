@@ -1,0 +1,17 @@
+Unit: dimensionless (peak time capacity factors),summer,winter
+hard coal,1.000,1.000
+natural gas nonpeaker,1.000,1.000
+nuclear,1.000,1.000
+hydro,0.870,0.860
+onshore wind,0.750,0.860
+solar pv,0.700,0.500
+solar thermal,0.390,0.000
+biomass,0.870,0.860
+geothermal ,1.000,1.000
+petroleum,1.000,1.000
+natural gas nonpeaker,1.000,1.000
+lignite,1.000,1.000
+offshore wind,0.750,0.860
+crude oil,1.000,1.000
+heavy or residual fuel oil,1.000,1.000
+municipal solid waste,1.000,1.000
